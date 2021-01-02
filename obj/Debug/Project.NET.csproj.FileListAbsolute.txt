@@ -77,3 +77,7 @@ E:\WORKING\AN III\Semestrul I\Dezvolatarea Aplicatiilor Web\Project.NET\obj\Debu
 E:\WORKING\AN III\Semestrul I\Dezvolatarea Aplicatiilor Web\Project.NET\obj\Debug\Project.NET.csproj.CopyComplete
 E:\WORKING\AN III\Semestrul I\Dezvolatarea Aplicatiilor Web\Project.NET\obj\Debug\Project.NET.dll
 E:\WORKING\AN III\Semestrul I\Dezvolatarea Aplicatiilor Web\Project.NET\obj\Debug\Project.NET.pdb
+E:\WORKING\AN III\Semestrul I\Dezvolatarea Aplicatiilor Web\Project.NET\bin\EntityFramework.dll
+E:\WORKING\AN III\Semestrul I\Dezvolatarea Aplicatiilor Web\Project.NET\bin\EntityFramework.SqlServer.dll
+E:\WORKING\AN III\Semestrul I\Dezvolatarea Aplicatiilor Web\Project.NET\bin\EntityFramework.xml
+E:\WORKING\AN III\Semestrul I\Dezvolatarea Aplicatiilor Web\Project.NET\bin\EntityFramework.SqlServer.xml

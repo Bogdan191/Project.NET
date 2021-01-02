@@ -1,8 +1,22 @@
 ﻿
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Home Page!!!";
 }
 
-<h2>Index</h2>
+<h2>@ViewBag.Title</h2>
+@foreach (var acc in ViewBag.acc)
+{
+    <div class=" panel-body">
+        @Html.Label("username", "username")
+        <br />
+        <p>@acc.userName</p>
+
+        @Html.Label("email", "email: ")
+        <br />
+        <p>@acc.Email</p>
+
+        
+    </div>
+}
 
 
